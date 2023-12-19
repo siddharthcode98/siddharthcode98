@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddharthcode98
-- 👀 I’m interested in javascript, react native,python(Datascience)
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on any open-source projects
 - 📫 How to reach me vaddemanisiddharth@gmail.com
